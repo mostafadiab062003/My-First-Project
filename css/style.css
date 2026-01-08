@@ -306,7 +306,7 @@ ul {
 #hero-banner {
   height: 100vh;
   background: linear-gradient(rgb(0 0 0 / 0.6), rgb(0 0 0 / 0.6)),
-    url(../assets/Hero/Hero-1.webp);
+    url(../assets/hero/Hero-1.webp);
   background-size: cover;
   background-position: center;
   text-align: center;
